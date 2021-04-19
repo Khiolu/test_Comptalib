@@ -1,0 +1,28 @@
+{
+  "name": "test_comptalib",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Khiolu/test_Comptalib.git"
+  },
+  "author": "Guillaume PILLET",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Khiolu/test_Comptalib/issues"
+  },
+  "homepage": "https://github.com/Khiolu/test_Comptalib#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.6.2"
+  },
+  "devDependencies": {
+    "mocha": "^8.3.2"
+  }
+}
